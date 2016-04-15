@@ -4,7 +4,7 @@
     "description": "The default Yii2 Advanced application User interface wrapped in a module for easy integration with the basic application structure ",
     "keywords": ["yii2", "user", "accounts"],
     "license": "GPL-3.0",
-    "version":"0.1.0",
+    "version":"dev",
     "support": {
         "issues": "https://github.com/Humanized/yii2-user/issues",
         "forum": "http://www.yiiframework.com/forum/",
